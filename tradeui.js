@@ -92,8 +92,9 @@
             }
         } catch (e) {
             console.error(e);
-            return value.toFixed(8);
         }
+        
+        return value.toFixed(8);
     }
 
     function fill_input(e) {

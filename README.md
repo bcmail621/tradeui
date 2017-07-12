@@ -47,3 +47,6 @@ For names in script config `Volume cell` replaced with:
 - `(10)` - just buy stat. if we want buy 2 ((`INPUT_AMOUNT` * `CURRENT_PRICE`) + `TRADE_COMISSION`)
 - `(11)` - Delta per sell (get\loss)  from `(12)` price to `(5)`
 - `(12)` -  Price for sell  `INPUT_AMOUNT` by `CURRENT_PRICE` ((`INPUT_AMOUNT` * `CURRENT_PRICE` ) - `TRADE_COMISSION`)
+
+#### Use btc address below to donate. Thanks! 
+##### 1LDd4XVHoZ6gCbeQ4Ru8xmAskwwMvTpyd4
